@@ -25,7 +25,7 @@ function App() {
             </div>
           </div>
           <div class="photo">
-            <img src="hello.png" />
+            <img src={require('/Users/JoeCollins/Desktop/nytproject/applabweek6/src/image.png')} />
           </div>
         </div>
         <div id="one" class="artbox">
@@ -44,7 +44,7 @@ function App() {
             </div>
           </div>
           <div class="photo">
-            <img src="hello.png" />
+            <img src={require('/Users/JoeCollins/Desktop/nytproject/applabweek6/src/image.png')} />
           </div>
         </div>
         <div id="one" class="artbox">
@@ -63,7 +63,7 @@ function App() {
             </div>
           </div>
           <div class="photo">
-            <img src="hello.png" />
+            <img src={require('/Users/JoeCollins/Desktop/nytproject/applabweek6/src/image.png')} />
           </div>
         </div>
       </div>
